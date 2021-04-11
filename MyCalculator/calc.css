@@ -28,7 +28,7 @@ section {
 }
 
 
-.display{
+.screen{
     background-color: rgb(182, 182, 182);
     height:100px;
     width:100%;
@@ -38,7 +38,7 @@ section {
     position:relative;
 }
 
-.display-1{
+.screen-1{
     opacity: .4;
     font-size: 20px;
     height:20px;
